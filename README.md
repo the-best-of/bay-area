@@ -16,8 +16,7 @@
 - [Day Trips](#day-trips)
 - [Events](#events)
 - [Food](#food)
-- [Galleries](#galleries)
-- [Museums](#museums)
+- [Museums and Galleries](#museums-and-galleries)
 - [Performing Arts](#performing-arts)
 - [Parks & Playgrounds](#parks--playgrounds)
 - [Shopping](#shopping)
@@ -60,14 +59,43 @@
 - San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
-- San Francisco: [State Bird Privisions](https://statebirdsf.com/dinner/)
+- San Francisco: [State Bird Provisions](https://statebirdsf.com/dinner/)
+- San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
+- San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
 
-# Galleries
 
-# Museums
+# Museums and Galleries
+
+### Peninsula
+- San Francisco: [California Academy of Sciences](https://www.calacademy.org)
+- San Francisco: [Legion of Honor](https://legionofhonor.famsf.org/)
+- San Francisco: [de Young Museum](https://deyoung.famsf.org/)
+- San Francisco: [Walt Disney Family Museum](https://www.waltdisney.org/)
+- San Francisco: [Museum of Modern Art](https://www.sfmoma.org/)
+- San Francisco: [Asian Art Museum](http://www.asianart.org/)
+- San Francisco: [Exploratorium](https://www.exploratorium.edu/)
+- San Francisco: [Contemporary Jewish Museum](https://www.thecjm.org/)
+- San Francisco: [Cable Car Museum](http://www.cablecarmuseum.org/)
+- San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
+- Mountain View: [Computer History Museum](https://www.computerhistory.org/)
+
+### East Bay
+- Oakland: [Oakland Museum of CA](http://museumca.org/)
+- Oakland: [Chabot Space and Science Center](http://www.chabotspace.org)
+- Oakland: [Peerless Coffee Museum](https://www.peerlesscoffee.com/about/museum/)
+- Alameda: [USS Hornet](http://www.uss-hornet.org)
+- Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/)
+- Walnut Creek: [Lindsay Wildlife Museum](https://lindsaywildlife.org/)
 
 ### North Bay
 - Sausalito: [Bay Area Discovery Museum](https://bayareadiscoverymuseum.org)
+- Sausalito: [Bay Kids Museum](http://www.baykidsmuseum.org/)
+- Santa Rosa: [Pacific Coast Air Museum](https://pacificcoastairmuseum.org/)
+
+### South Bay
+- San Jose: [San Jose Museum of Art](https://sjmusart.org/)
+- San Jose: [Tech Museum of Innovation](https://www.thetech.org/)
+- San Jose: [Museum of Quilts and Textiles](https://www.sjquiltmuseum.org/)
 
 
 
@@ -84,9 +112,21 @@
 - Berkeley: [Berkeley Repertory Theatre](http://www.berkeleyrep.org)
 - Berkeley: [Berkeley Symphony Orchestra](http://www.berkeleysymphony.org)
 - Berkeley: [Cal Performances](https://calperformances.org)
+- Oakland: [Fox Theatre](http://thefoxoakland.com/)
+- Oakland: [Paramount Theatre](http://www.paramounttheatre.com/)
 
 ### Peninsula:
 - San Francisco: Free concerts at [Stern Grove Festival](https://www.sterngrove.org/)
+
+### South Bay:
+- San Jose: [City Lights](https://www.sanjose.org/listings/city-lights-theater-company)
+- San Jose: [California Theatre](https://www.sanjose.org/listings/california-theatre)
+- San Jose: [San Jose Center for Performing Arts](https://www.sanjose.org/listings/san-jose-center-performing-arts)
+- San Jose: [Symphony Silicon Valley](https://www.sanjose.org/listings/symphony-silicon-valley)
+- San Jose: [Opera San Jose](https://www.sanjose.org/listings/opera-san-jose)
+- San Jose: [Broadway San Jose](https://www.sanjose.org/listings/broadway-san-jose)
+- Saratoga: [Mountain Winery](https://www.sanjose.org/listings/mountain-winery)
+- Saratoga: [Montalvo Arts Center](https://www.sanjose.org/listings/montalvo-arts-center)
 
 
 
