@@ -39,63 +39,76 @@
 
 ### Peninsula
 - Half Moon Bay: [Whale watching](https://www.oceanicsociety.org/whale-watching)
-- Pescadero: [Harley Farms Goat Dairy](http://harleyfarms.com/), then [Duarte's Tavern](http://www.duartestavern.com/) for artichoke soup and olallieberry pie.
+- Pescadero: Breakfast at [Alice's](http://www.alicesrestaurant.com/), then [Harley Farms Goat Dairy](http://harleyfarms.com/), then [Duarte's Tavern](http://www.duartestavern.com/) for artichoke soup and olallieberry pie.
 - Pescadero: [Pigeon Point Light Station](https://www.parks.ca.gov/?page_id=533), then Elephant seals at [Año Nuevo State Park](http://www.parks.ca.gov/?page_id=523), then eat pie at [Pie Ranch](https://www.pieranch.org/)
 - Santa Cruz: Redwood canpoy tours and aerial adventure course at [Mount Hermon Adventures](https://mounthermonadventures.com/)
 - Santa Cruz: Ride the Big Dipper at [Santa Cruz Beach Boardwalk](https://beachboardwalk.com/), then [Marianne's Ice Cream](https://mariannesicecream.com/), then visit [Natural Bridges](http://www.parks.ca.gov/?page_id=541)
+- San Francisco: Tour [Point Bonita Light House](https://www.nps.gov/goga/pobo.htm), then tour the [Nike Missile Site](https://www.nps.gov/goga/nike-missile-site.htm)
 
 
 
 # Events
 
+### Easy Bay
+- Berkeley: [Berkeyley Kite festival](http://www.highlinekites.com/pages.php?pageid=21)
+
 # Food
+
 ### Peninsula
+- Woodside: [Alice's](http://www.alicesrestaurant.com/)
 - San Francisco: Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
+- San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
+- San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
+- San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
+- San Francisco: [State Bird Privisions](https://statebirdsf.com/dinner/)
 
 # Galleries
 
 # Museums
 
 ### North Bay
-- [Bay Area Discovery Museum](https://bayareadiscoverymuseum.org) - Sausalito
+- Sausalito: [Bay Area Discovery Museum](https://bayareadiscoverymuseum.org)
 
 
 
 # Performing Arts
 
 ### North Bay
-- [142 Throckmorton Theatre](https://throckmortontheatre.org) - Mill Valley
-- [Mill Valley Fall Arts Festival](http://www.mvfaf.org) - Mill Valley
-- [Mill Valley Film Festival](https://www.mvff.com) - Mill Valley
-- [Mountain Play](https://www.mountainplay.org) - Mill Valley
-- [Sausalito Art Festival](https://www.sausalitoartfestival.org) - Sausalito
+- Mill Valley: [142 Throckmorton Theatre](https://throckmortontheatre.org)
+- Mill Valley: [Mill Valley Fall Arts Festival](http://www.mvfaf.org)
+- Mill Valley: [Mill Valley Film Festival](https://www.mvff.com)
+- Mill Valley: [Mountain Play](https://www.mountainplay.org)
+- Sausalito: [Sausalito Art Festival](https://www.sausalitoartfestival.org)
 
 ### East Bay
-- [Berkeley Repertory Theatre](http://www.berkeleyrep.org) - Berkeley
-- [Berkeley Symphony Orchestra](http://www.berkeleysymphony.org) - Berkeley
-- [Cal Performances](https://calperformances.org) - Berkeley
+- Berkeley: [Berkeley Repertory Theatre](http://www.berkeleyrep.org)
+- Berkeley: [Berkeley Symphony Orchestra](http://www.berkeleysymphony.org)
+- Berkeley: [Cal Performances](https://calperformances.org)
+
+### Peninsula:
+- San Francisco: Free concerts at [Stern Grove Festival](https://www.sterngrove.org/)
 
 
 
 # Parks & Playgrounds
 
 ### East Bay
-- [Adventure Playground](https://www.cityofberkeley.info/adventureplayground) - Berkeley
-- [Children's Fairyland](http://fairyland.org/) - Oakland
-- [Frog Park](https://www.frogpark.org/) - Oakland
-- [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park) - Walnut Creek
+- Berkeley: [Adventure Playground](https://www.cityofberkeley.info/adventureplayground)
+- Oakland: [Children's Fairyland](http://fairyland.org/) 
+- Oakland: [Frog Park](https://www.frogpark.org/) 
+- Walnut Creek: [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park)
 
 ### South Bay
-- [Rotary Playgarden](http://www.rotaryplaygarden.org/) - San Jose
-- [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/) - Sunnyvale
-- [Monopoly in the Park](http://www.monopolyinthepark.com/) - San Jose
-- [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park) - Los Gatos
+- San Jose: [Rotary Playgarden](http://www.rotaryplaygarden.org/)
+- Sunnyvale: [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
+- San Jose: [Monopoly in the Park](http://www.monopolyinthepark.com/)
+- Los Gatos: [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park)
 
-### San Francisco
-- [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/) - San Francisco
-- [Koret Playground & Carousel](https://sfrecpark.org/destination/golden-gate-park/koret-childrens-quarter/) - San Francisco
-- [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/) - San Francisco
-- [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/) - San Francisco
+### Peninsula
+- San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
+- San Francisco: [Koret Playground & Carousel](https://sfrecpark.org/destination/golden-gate-park/koret-childrens-quarter/)
+- San Francisco: [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/)
+- San Francisco: [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
 
 
 
@@ -122,6 +135,7 @@
 
 ### North Bay
 ### East Bay
+- Berkeley: [Cal Rugby](https://calbears.com/index.aspx?path=mrugby) - best rugby team in the nation for the last 20-plus years
 ### South Bay
 ### Peninsula
 ### San Francisco
