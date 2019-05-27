@@ -56,9 +56,12 @@
 
 ### Peninsula
 - San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
+- San Francisco: [Burma Superstar](https://www.burmasuperstar.com/)
 - San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
+- San Francisco: Mission-style burrito [La Taqueria](https://www.jamesbeard.org/blog/2017-americas-classic-la-taqueria)
 - San Francisco: Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
 - San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
+- San Francisco: [Pineapple King Bakery](http://www.pineapplekingbakery.com/)
 - San Francisco: [State Bird Provisions](https://statebirdsf.com/dinner/)
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
@@ -89,6 +92,7 @@
 - Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/)
 - Walnut Creek: [Lindsay Wildlife Museum](https://lindsaywildlife.org/)
 - Moraga: [Classic Film Hall of Fame](http://www.cffhof.org/eng/)
+- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
 
 ### North Bay
 - Santa Rosa: [Pacific Coast Air Museum](https://pacificcoastairmuseum.org/)
@@ -176,12 +180,15 @@
 
 ### East Bay
 - Berkeley: [Cal Berkeley](https://calbears.com)
-- Oakland: [Golden State Warriors](https://www.nba.com/warriors/)
 - Oakland: [Athletics](https://www.mlb.com/athletics)
+- Oakland: [Golden State Warriors](https://www.nba.com/warriors/)
+
 ### South Bay
-- San Jose: [Sharks](https://www.nhl.com/sharks)
-- San Jose: [San Jose State University](https://sjsuspartans.com/)
 - San Jose: [49ers](https://www.49ers.com/)
+- San Jose: [Earthquakes](https://www.sjearthquakes.com/)
+- San Jose: [San Jose State University](https://sjsuspartans.com/)
+- San Jose: [Sharks](https://www.nhl.com/sharks)
+
 ### Peninsula
 - San Francisco: [Giants](https://www.mlb.com/giants)
 - Palo Alto: [Stanford University](https://gostanford.com/)
