@@ -159,20 +159,12 @@
 
 # Shopping
 
-### North Bay
-### East Bay
-### South Bay
-### Peninsula
-### San Francisco
+TODO
 
 
 # Sights
 
-### North Bay
-### East Bay
-### South Bay
-### Peninsula
-### San Francisco
+TODO
 
 
 
