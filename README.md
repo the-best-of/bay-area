@@ -77,6 +77,7 @@
 - San Francisco: [Contemporary Jewish Museum](https://www.thecjm.org/)
 - San Francisco: [Cable Car Museum](http://www.cablecarmuseum.org/)
 - San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
+- San Francisco: [Cartoon Art Museum](https://www.cartoonart.org/)
 - Mountain View: [Computer History Museum](https://www.computerhistory.org/)
 
 ### East Bay
@@ -86,6 +87,7 @@
 - Alameda: [USS Hornet](http://www.uss-hornet.org)
 - Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/)
 - Walnut Creek: [Lindsay Wildlife Museum](https://lindsaywildlife.org/)
+- Moraga: [Classic Film Hall of Fame](http://www.cffhof.org/eng/)
 
 ### North Bay
 - Sausalito: [Bay Area Discovery Museum](https://bayareadiscoverymuseum.org)
@@ -179,3 +181,51 @@
 ### South Bay
 ### Peninsula
 ### San Francisco
+
+
+# Wedding Venues
+
+### Peninsula
+- San Francisco: [Julia Morgan Ballroom](https://juliamorganballroom.com/weddings-celebrations/)
+- San Francisco: [Bentley Reserve](https://www.bentlyreserve.com/weddings)
+- San Francisco: [Fairmont](https://www.fairmont.com/san-francisco/meetings-weddings/)
+- San Francisco: [Westin St. Francis](https://www.westinstfrancis.com/weddings/)
+- San Francisco: [The Winery](https://www.winery-sf.com/weddings)
+- San Francisco: [City Club](https://cityclubsf.com/weddings/)
+- San Francisco: [Palace of Fine Arts](https://palaceoffinearts.org)
+- San Francisco: [Flood Mansion](https://www.floodmansion.org/)
+- San Francisco: [InterContinental Mark Hopkins](http://www.intercontinentalmarkhopkins.com/weddings/weddings.aspx)
+- San Francisco: [San Francisco Film Centre](http://www.sffilmcentre.com/events/weddings/)
+- Half Moon Bay: [Ritz Carlton](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay/weddings)
+- Half Moon Bay: [Oceano Hotel & Spa](https://oceanohalfmoonbay.com/weddings/)
+- Half Moon Bay: [Half Moon Bay Golf Links](https://www.halfmoonbaygolf.com/weddings)
+- Redwood City: [Thomas Fogarty Winery](https://www.fogartywinery.com/events-facility/weddings/)
+- Redwood City: [The Mountain Terrace](http://themountainterrace.com/weddings/)
+- Burlingame: [Kohl Mansion](https://kohlmansion.com/weddings/)
+
+### North Bay
+- Napa: [Silverado Resort](https://www.silveradoresort.com/napa-weddings)
+- Kenwood: [Chateau St. Jean](https://www.chateaustjean.com/csj-events/weddings)
+- Kenwood: [Kunde Family Winery](https://www.kunde.com/Weddings-and-Events/Wedding-and-Event-Venues)
+- Santa Rosa: [Paradise Ridge Winery](https://prwinery.com/weddings/)
+- Forestville: [Farmhouse Inn](https://www.farmhouseinn.com/)
+- Geyserville: [Trentadue Winery](https://trentadue.com/weddings/)
+- Geyserville: [Sbragia Family Vineyards](https://www.sbragia.com/weddings/)
+- Rutherford: [Auberge du Soleil](https://aubergeresorts.com/aubergedusoleil/events/)
+- St. Helena: [Harvest Inn](https://www.harvestinn.com/weddings)
+- Petaluma: [Bloomfield Farms](http://www.bloomfieldevents.com/)
+- Sonoma: [The Lodge at Sonoma](https://www.marriott.com/hotels/event-planning/wedding-planning/sfols-the-lodge-at-sonoma-renaissance-resort-and-spa/)
+
+### South Bay
+- San Jose: [Cinnabar Hills Golf Club](https://www.cinnabarhills.com/events/wedding-information)
+
+### Easy Bay
+- Pleasanton: [The Club at Ruby Hill](https://www.rubyhill.com/special-events/weddings)
+- Pleasanton: [Casa Real at Ruby Hill Winery](https://casarealevents.com/get-married-and-celebrate/)
+- Pleasanton: [Palm Event Center](https://palmeventcenter.com/get-married/)
+- San Ramon: [The Bridges Golf Club](http://www.thebridgesgolf.com/-celebrate)
+
+### South Bay
+- Los Gatos: [Nestl Down](http://www.nestldown.com/)
+- Cupertino: [Picchetti Winery](http://www.picchetti.com/)
+- Saratoga: [Montalvo Arts Center](http://montalvoarts.org/)
