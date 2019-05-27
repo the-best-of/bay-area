@@ -42,7 +42,7 @@
 
 # Events
 
-### Easy Bay
+### East Bay
 - Berkeley: [Berkeley Kite festival](http://www.highlinekites.com/pages.php?pageid=21)
 
 # Food
@@ -60,6 +60,9 @@
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
 
+### East Bay
+- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
+
 
 # Museums and Galleries
 
@@ -70,7 +73,6 @@
 - Oakland: [Chabot Space and Science Center](http://www.chabotspace.org)
 - Oakland: [Oakland Museum of CA](http://museumca.org/)
 - Oakland: [Peerless Coffee Museum](https://www.peerlesscoffee.com/about/museum/)
-- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
 - Walnut Creek: [Lindsay Wildlife Museum](https://lindsaywildlife.org/)
 
 ### North Bay
