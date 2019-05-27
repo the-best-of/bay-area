@@ -27,6 +27,25 @@
 
 # Day Trips
 
+### East Bay
+- Santa Rosa: See exotic animals at [Safari West](https://www.safariwest.com/), then drink some Pliny the Elder beer at [Russian River Brewing Company](https://russianriverbrewing.com/)
+- Livermore: Explore the [Livermore Valley Wine Country](https://www.lvwine.org/itinerary-planner.php)
+
+### North Bay
+- Guerneville: Float on the Russian River at [Johnson's Beach](https://johnsonsbeach.com/), then ice cream and pie at [Guerneville Bank Club](http://www.guernevillebankclub.com/)
+- Petaluma: Brewery tour at [Lagunitas Brewing Company](https://lagunitas.com/)
+- Sonoma County: Horseback trail riding in [Bodega Dunes Beach](https://www.sonomacounty.com/outdoor-activities/horse-n-around-trail-rides), then fresh oysters at [Hog Island Oyster Company](https://hogislandoysters.com/) (Marshall, CA) 
+- Point Arena (south of Mendecino): Tour of [Point Arena Light House](https://www.pointarenalighthouse.com/) (the tallest lighthouse on the Pacific Coast), then lunch at [Queenie's Roadhouse Cafe](http://queeniesroadhousecafe.com/)
+
+### Peninsula
+- Half Moon Bay: [Whale watching](https://www.oceanicsociety.org/whale-watching)
+- Pescadero: [Harley Farms Goat Dairy](http://harleyfarms.com/), then [Duarte's Tavern](http://www.duartestavern.com/) for artichoke soup and olallieberry pie.
+- Pescadero: [Pigeon Point Light Station](https://www.parks.ca.gov/?page_id=533), then Elephant seals at [Año Nuevo State Park](http://www.parks.ca.gov/?page_id=523), then eat pie at [Pie Ranch](https://www.pieranch.org/)
+- Santa Cruz: Redwood canpoy tours and aerial adventure course at [Mount Hermon Adventures](https://mounthermonadventures.com/)
+- Santa Cruz: Ride the Big Dipper at [Santa Cruz Beach Boardwalk](https://beachboardwalk.com/), then [Marianne's Ice Cream](https://mariannesicecream.com/), then visit [Natural Bridges](http://www.parks.ca.gov/?page_id=541)
+
+
+
 # Events
 
 # Food
@@ -104,7 +123,3 @@
 ### South Bay
 ### Peninsula
 ### San Francisco
-
-
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
