@@ -20,7 +20,6 @@
 
 
 # Day Trips
-
 ### East Bay
 - Santa Rosa: See exotic animals at [Safari West](https://www.safariwest.com/), then drink some Pliny the Elder beer at [Russian River Brewing Company](https://russianriverbrewing.com/)
 - Livermore: Explore the [Livermore Valley Wine Country](https://www.lvwine.org/itinerary-planner.php)
@@ -43,11 +42,13 @@
 
 
 # Events
-
 ### East Bay
 - Berkeley: [Berkeley Kite festival](http://www.highlinekites.com/pages.php?pageid=21)
 
+
 # Food
+### East Bay
+- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
 
 ### Peninsula
 - San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
@@ -62,11 +63,19 @@
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
 
-### East Bay
-- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
 
 
 # Hiking
+### East Bay
+- Alameda County: [Mission Peak Regional Preserve](https://bahiker.com/eastbayhikes/missionpeak.html)
+- Alameda County: [Sunol Regional Wilderness](https://bahiker.com/eastbayhikes/sunol.html)
+- Contra Costa: [Black Diamond Mines Regional Preserve](https://bahiker.com/eastbayhikes/bdm.html)
+- Contra Costa: [Briones Regional Park](https://bahiker.com/eastbayhikes/bcbriones.html)
+- Contra Costa: [Donner Canyon and Waterfalls](https://bahiker.com/eastbayhikes/mdsp/donnercanyon.html)
+- Contra Costa: [Huckleberry Botanic Regional Preserve](https://bahiker.com/eastbayhikes/huckleberry.htm)
+- Contra Costa: [Mitchell Canyon-Eagle Peak Loop](https://bahiker.com/eastbayhikes/mdsp/mcep.html)
+- Contra Costa: [Redwood Regional Park](https://bahiker.com/eastbayhikes/redwood.html)
+
 ### North Bay
 - Marin County: [Angel Island State Park](https://bahiker.com/northbayhikes/angelisland.html)
 - Marin County: [Baltimore Canyon Open Space Preserve](https://bahiker.com/northbayhikes/baltcanyon.html)
@@ -91,16 +100,6 @@
 - Sonoma County: [Sonoma Coast State Beach](https://bahiker.com/northbayhikes/bodegahead.html)
 - Sonoma County: [Sugarloaf Ridge State Park](https://bahiker.com/northbayhikes/sugarloaf.html)
 
-### East Bay
-- Alameda County: [Mission Peak Regional Preserve](https://bahiker.com/eastbayhikes/missionpeak.html)
-- Alameda County: [Sunol Regional Wilderness](https://bahiker.com/eastbayhikes/sunol.html)
-- Contra Costa: [Black Diamond Mines Regional Preserve](https://bahiker.com/eastbayhikes/bdm.html)
-- Contra Costa: [Briones Regional Park](https://bahiker.com/eastbayhikes/bcbriones.html)
-- Contra Costa: [Donner Canyon and Waterfalls](https://bahiker.com/eastbayhikes/mdsp/donnercanyon.html)
-- Contra Costa: [Huckleberry Botanic Regional Preserve](https://bahiker.com/eastbayhikes/huckleberry.htm)
-- Contra Costa: [Mitchell Canyon-Eagle Peak Loop](https://bahiker.com/eastbayhikes/mdsp/mcep.html)
-- Contra Costa: [Redwood Regional Park](https://bahiker.com/eastbayhikes/redwood.html)
-
 ### Peninsula
 - San Bruno: [San Bruno Mountain State and County Park](https://bahiker.com/southbayhikes/sanbrunosummit.html)
 - Santa Cruz: [Año Nuevo State Park](https://bahiker.com/southbayhikes/anonuevo2.html)
@@ -124,8 +123,8 @@
 - Santa Clara County: [Monte Bello Open Space Preserve](https://bahiker.com/southbayhikes/monte.html)
 - Santa Clara County: [Uvas Canyon County Park](https://bahiker.com/southbayhikes/uvas.html)
 
-# Museums and Galleries
 
+# Museums and Galleries
 ### East Bay
 - Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/)
 - Alameda: [USS Hornet](http://www.uss-hornet.org)
@@ -163,7 +162,6 @@
 
 
 # Performing Arts
-
 ### East Bay
 - Berkeley: [Berkeley Repertory Theatre](http://www.berkeleyrep.org)
 - Berkeley: [Berkeley Symphony Orchestra](http://www.berkeleysymphony.org)
@@ -192,7 +190,6 @@
 
 
 # Parks & Playgrounds
-
 ### East Bay
 - Berkeley: [Adventure Playground](https://www.cityofberkeley.info/adventureplayground)
 - Oakland: [Children's Fairyland](http://fairyland.org/) 
@@ -224,6 +221,10 @@
 - Pleasanton: [Stoneridge Shopping Center](https://www.simon.com/mall/stoneridge-shopping-center)
 - Walnut Creek: [Broadway Plaza](https://www.broadwayplaza.com/)
 
+### North Bay
+- Napa: [Napa Premium Outlets](https://www.premiumoutlets.com/outlet/napa)
+- San Rafael: [Northgate Shopping Centre](http://northgateshoppingcentre.ca/)
+
 ### Peninsula
 - Burlingame: [Burlingame Avenue](https://www.burlingame.org/doing_business/visitor_information/dining_and_shopping.php)
 - Daly City: [Serramonte Center](https://www.serramontecenter.com/)
@@ -235,10 +236,6 @@
 - San Mateo: [Hillsdale Shopping Center](https://hillsdale.com/)
 - San Bruno: [The Shops at Tanforan](https://www.theshopsattanforan.com/)
 
-### North Bay
-- Napa: [Napa Premium Outlets](https://www.premiumoutlets.com/outlet/napa)
-- San Rafael: [Northgate Shopping Centre](http://northgateshoppingcentre.ca/)
-
 ### South Bay
 - San Jose: [Gilroy Premium Outlets](https://www.premiumoutlets.com/outlet/gilroy)
 - San Jose: [Santana Row](http://www.santanarow.com/)
@@ -247,7 +244,6 @@
 
 
 # Sights
-
 ### East Bay
 - Oakland: [Oakland Zoo](https://www.oaklandzoo.org/)
 
@@ -277,9 +273,7 @@
 - San Jose: [Winchester Mystery House](https://winchestermysteryhouse.com)
 
 
-
 # Sports
-
 ### East Bay
 - Berkeley: [Cal Berkeley](https://calbears.com)
 - Oakland: [Athletics](https://www.mlb.com/athletics)
@@ -298,7 +292,6 @@
 
 
 # Wedding Venues
-
 ### East Bay
 - Pleasanton: [Casa Real at Ruby Hill Winery](https://casarealevents.com/get-married-and-celebrate/)
 - Pleasanton: [The Club at Ruby Hill](https://www.rubyhill.com/special-events/weddings)
