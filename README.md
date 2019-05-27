@@ -6,13 +6,6 @@
 </p>
 
 
-# bay-area
-> A curated list of awesome things to do in the Bay Area
-
-
-<br/>
-
-
 - [Day Trips](#day-trips)
 - [Events](#events)
 - [Food](#food)
@@ -85,14 +78,14 @@
 - San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
 
 ### East Bay
-- Oakland: [Oakland Museum of CA](http://museumca.org/)
-- Oakland: [Chabot Space and Science Center](http://www.chabotspace.org)
-- Oakland: [Peerless Coffee Museum](https://www.peerlesscoffee.com/about/museum/)
-- Alameda: [USS Hornet](http://www.uss-hornet.org)
 - Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/)
-- Walnut Creek: [Lindsay Wildlife Museum](https://lindsaywildlife.org/)
+- Alameda: [USS Hornet](http://www.uss-hornet.org)
 - Moraga: [Classic Film Hall of Fame](http://www.cffhof.org/eng/)
+- Oakland: [Chabot Space and Science Center](http://www.chabotspace.org)
+- Oakland: [Oakland Museum of CA](http://museumca.org/)
+- Oakland: [Peerless Coffee Museum](https://www.peerlesscoffee.com/about/museum/)
 - Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
+- Walnut Creek: [Lindsay Wildlife Museum](https://lindsaywildlife.org/)
 
 ### North Bay
 - Santa Rosa: [Pacific Coast Air Museum](https://pacificcoastairmuseum.org/)
