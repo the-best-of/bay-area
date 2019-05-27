@@ -1,33 +1,17 @@
 # Contributing Guide
 
-1. Make sure you put things in the right category!
-2. Always add your items to the end of a list. To be fair, the order is first-come-first-serve.
-3. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
-4. At this time, don't add any restaurants.  There's just too many, and Yelp might be better for that anyhow.
+There are two ways to contribute.  Pick the way that's best for you:
+1. [Create an Issue](#create-an-issue)
+2. [Submit a pull request](#submit-a-pull-request)
 
+### Create an Issue
+- Click on the "[Issues](https://github.com/the-best-of/bay-area/issues)" tab above
+- To avoid duplicate issues, scan the current list of issues first.  If your issue already exists, you can "upvote" by adding a comment with the text "+1".  Otherwise, create a new issue.  Also add a link to the best, most helpful website describing the item you are adding.
 
-### Great things to do in the Bay Area
+### Submit a Pull Request
+- Make sure you put things in the right category!
+- Always add your items alphabetically.
+- If you think something is in the wrong category, or think there needs to be a new category, feel free to edit things too.
+- Try to find the best, most helpful website for the new item you are adding, and use that URL for the link.
 
-Make sure you put things in the right category. There are five main categories:
-
-- North Bay
-- South Bay
-- East Bay
-- Peninsula
-- San Francisco
-
-
-#### North Bay
-
-
-#### South Bay
-
-
-#### East Bay
-
-
-#### Peninsula
-
-
-#### San Francisco
 
