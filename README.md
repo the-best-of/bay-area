@@ -22,6 +22,7 @@
 - [Shopping](#shopping)
 - [Sights](#sights)
 - [Sports](#sports)
+- [Wedding Venues](#wedding-venues)
 
 
 # Day Trips
@@ -54,31 +55,31 @@
 # Food
 
 ### Peninsula
-- Woodside: [Alice's](http://www.alicesrestaurant.com/)
+- San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
+- San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
 - San Francisco: Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
 - San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
-- San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
-- San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
 - San Francisco: [State Bird Provisions](https://statebirdsf.com/dinner/)
-- San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
+- San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
+- Woodside: [Alice's](http://www.alicesrestaurant.com/)
 
 
 # Museums and Galleries
 
 ### Peninsula
-- San Francisco: [California Academy of Sciences](https://www.calacademy.org)
-- San Francisco: [Legion of Honor](https://legionofhonor.famsf.org/)
-- San Francisco: [de Young Museum](https://deyoung.famsf.org/)
-- San Francisco: [Walt Disney Family Museum](https://www.waltdisney.org/)
-- San Francisco: [Museum of Modern Art](https://www.sfmoma.org/)
-- San Francisco: [Asian Art Museum](http://www.asianart.org/)
-- San Francisco: [Exploratorium](https://www.exploratorium.edu/)
-- San Francisco: [Contemporary Jewish Museum](https://www.thecjm.org/)
-- San Francisco: [Cable Car Museum](http://www.cablecarmuseum.org/)
-- San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
-- San Francisco: [Cartoon Art Museum](https://www.cartoonart.org/)
 - Mountain View: [Computer History Museum](https://www.computerhistory.org/)
+- San Francisco: [Asian Art Museum](http://www.asianart.org/)
+- San Francisco: [Cable Car Museum](http://www.cablecarmuseum.org/)
+- San Francisco: [California Academy of Sciences](https://www.calacademy.org)
+- San Francisco: [Cartoon Art Museum](https://www.cartoonart.org/)
+- San Francisco: [Contemporary Jewish Museum](https://www.thecjm.org/)
+- San Francisco: [de Young Museum](https://deyoung.famsf.org/)
+- San Francisco: [Exploratorium](https://www.exploratorium.edu/)
+- San Francisco: [Legion of Honor](https://legionofhonor.famsf.org/)
+- San Francisco: [Museum of Modern Art](https://www.sfmoma.org/)
+- San Francisco: [Walt Disney Family Museum](https://www.waltdisney.org/)
+- San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
 
 ### East Bay
 - Oakland: [Oakland Museum of CA](http://museumca.org/)
@@ -90,15 +91,14 @@
 - Moraga: [Classic Film Hall of Fame](http://www.cffhof.org/eng/)
 
 ### North Bay
+- Santa Rosa: [Pacific Coast Air Museum](https://pacificcoastairmuseum.org/)
 - Sausalito: [Bay Area Discovery Museum](https://bayareadiscoverymuseum.org)
 - Sausalito: [Bay Kids Museum](http://www.baykidsmuseum.org/)
-- Santa Rosa: [Pacific Coast Air Museum](https://pacificcoastairmuseum.org/)
 
 ### South Bay
+- San Jose: [Museum of Quilts and Textiles](https://www.sjquiltmuseum.org/)
 - San Jose: [San Jose Museum of Art](https://sjmusart.org/)
 - San Jose: [Tech Museum of Innovation](https://www.thetech.org/)
-- San Jose: [Museum of Quilts and Textiles](https://www.sjquiltmuseum.org/)
-
 
 
 # Performing Arts
@@ -121,15 +121,14 @@
 - San Francisco: Free concerts at [Stern Grove Festival](https://www.sterngrove.org/)
 
 ### South Bay:
-- San Jose: [City Lights](https://www.sanjose.org/listings/city-lights-theater-company)
+- San Jose: [Broadway San Jose](https://www.sanjose.org/listings/broadway-san-jose)
 - San Jose: [California Theatre](https://www.sanjose.org/listings/california-theatre)
+- San Jose: [City Lights](https://www.sanjose.org/listings/city-lights-theater-company)
+- Saratoga: [Montalvo Arts Center](https://www.sanjose.org/listings/montalvo-arts-center)
+- Saratoga: [Mountain Winery](https://www.sanjose.org/listings/mountain-winery)
+- San Jose: [Opera San Jose](https://www.sanjose.org/listings/opera-san-jose)
 - San Jose: [San Jose Center for Performing Arts](https://www.sanjose.org/listings/san-jose-center-performing-arts)
 - San Jose: [Symphony Silicon Valley](https://www.sanjose.org/listings/symphony-silicon-valley)
-- San Jose: [Opera San Jose](https://www.sanjose.org/listings/opera-san-jose)
-- San Jose: [Broadway San Jose](https://www.sanjose.org/listings/broadway-san-jose)
-- Saratoga: [Mountain Winery](https://www.sanjose.org/listings/mountain-winery)
-- Saratoga: [Montalvo Arts Center](https://www.sanjose.org/listings/montalvo-arts-center)
-
 
 
 # Parks & Playgrounds
@@ -141,15 +140,15 @@
 - Walnut Creek: [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park)
 
 ### South Bay
-- San Jose: [Rotary Playgarden](http://www.rotaryplaygarden.org/)
 - Sunnyvale: [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
 - San Jose: [Monopoly in the Park](http://www.monopolyinthepark.com/)
 - Los Gatos: [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park)
+- San Jose: [Rotary Playgarden](http://www.rotaryplaygarden.org/)
 
 ### Peninsula
-- San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
 - San Francisco: [Koret Playground & Carousel](https://sfrecpark.org/destination/golden-gate-park/koret-childrens-quarter/)
 - San Francisco: [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/)
+- San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
 - San Francisco: [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
 
 
@@ -186,46 +185,46 @@
 # Wedding Venues
 
 ### Peninsula
-- San Francisco: [Julia Morgan Ballroom](https://juliamorganballroom.com/weddings-celebrations/)
+- Burlingame: [Kohl Mansion](https://kohlmansion.com/weddings/)
+- Half Moon Bay: [Half Moon Bay Golf Links](https://www.halfmoonbaygolf.com/weddings)
+- Half Moon Bay: [Oceano Hotel & Spa](https://oceanohalfmoonbay.com/weddings/)
+- Half Moon Bay: [Ritz Carlton](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay/weddings)
+- Redwood City: [The Mountain Terrace](http://themountainterrace.com/weddings/)
+- Redwood City: [Thomas Fogarty Winery](https://www.fogartywinery.com/events-facility/weddings/)
 - San Francisco: [Bentley Reserve](https://www.bentlyreserve.com/weddings)
-- San Francisco: [Fairmont](https://www.fairmont.com/san-francisco/meetings-weddings/)
-- San Francisco: [Westin St. Francis](https://www.westinstfrancis.com/weddings/)
-- San Francisco: [The Winery](https://www.winery-sf.com/weddings)
 - San Francisco: [City Club](https://cityclubsf.com/weddings/)
-- San Francisco: [Palace of Fine Arts](https://palaceoffinearts.org)
+- San Francisco: [Fairmont](https://www.fairmont.com/san-francisco/meetings-weddings/)
 - San Francisco: [Flood Mansion](https://www.floodmansion.org/)
 - San Francisco: [InterContinental Mark Hopkins](http://www.intercontinentalmarkhopkins.com/weddings/weddings.aspx)
+- San Francisco: [Julia Morgan Ballroom](https://juliamorganballroom.com/weddings-celebrations/)
+- San Francisco: [Palace of Fine Arts](https://palaceoffinearts.org)
 - San Francisco: [San Francisco Film Centre](http://www.sffilmcentre.com/events/weddings/)
-- Half Moon Bay: [Ritz Carlton](http://www.ritzcarlton.com/en/hotels/california/half-moon-bay/weddings)
-- Half Moon Bay: [Oceano Hotel & Spa](https://oceanohalfmoonbay.com/weddings/)
-- Half Moon Bay: [Half Moon Bay Golf Links](https://www.halfmoonbaygolf.com/weddings)
-- Redwood City: [Thomas Fogarty Winery](https://www.fogartywinery.com/events-facility/weddings/)
-- Redwood City: [The Mountain Terrace](http://themountainterrace.com/weddings/)
-- Burlingame: [Kohl Mansion](https://kohlmansion.com/weddings/)
+- San Francisco: [The Winery](https://www.winery-sf.com/weddings)
+- San Francisco: [Westin St. Francis](https://www.westinstfrancis.com/weddings/)
 
 ### North Bay
-- Napa: [Silverado Resort](https://www.silveradoresort.com/napa-weddings)
+- Forestville: [Farmhouse Inn](https://www.farmhouseinn.com/)
+- Geyserville: [Sbragia Family Vineyards](https://www.sbragia.com/weddings/)
+- Geyserville: [Trentadue Winery](https://trentadue.com/weddings/)
 - Kenwood: [Chateau St. Jean](https://www.chateaustjean.com/csj-events/weddings)
 - Kenwood: [Kunde Family Winery](https://www.kunde.com/Weddings-and-Events/Wedding-and-Event-Venues)
-- Santa Rosa: [Paradise Ridge Winery](https://prwinery.com/weddings/)
-- Forestville: [Farmhouse Inn](https://www.farmhouseinn.com/)
-- Geyserville: [Trentadue Winery](https://trentadue.com/weddings/)
-- Geyserville: [Sbragia Family Vineyards](https://www.sbragia.com/weddings/)
-- Rutherford: [Auberge du Soleil](https://aubergeresorts.com/aubergedusoleil/events/)
-- St. Helena: [Harvest Inn](https://www.harvestinn.com/weddings)
+- Napa: [Silverado Resort](https://www.silveradoresort.com/napa-weddings)
 - Petaluma: [Bloomfield Farms](http://www.bloomfieldevents.com/)
+- Rutherford: [Auberge du Soleil](https://aubergeresorts.com/aubergedusoleil/events/)
+- Santa Rosa: [Paradise Ridge Winery](https://prwinery.com/weddings/)
 - Sonoma: [The Lodge at Sonoma](https://www.marriott.com/hotels/event-planning/wedding-planning/sfols-the-lodge-at-sonoma-renaissance-resort-and-spa/)
+- St. Helena: [Harvest Inn](https://www.harvestinn.com/weddings)
 
 ### South Bay
 - San Jose: [Cinnabar Hills Golf Club](https://www.cinnabarhills.com/events/wedding-information)
 
-### Easy Bay
-- Pleasanton: [The Club at Ruby Hill](https://www.rubyhill.com/special-events/weddings)
+### East Bay
 - Pleasanton: [Casa Real at Ruby Hill Winery](https://casarealevents.com/get-married-and-celebrate/)
+- Pleasanton: [The Club at Ruby Hill](https://www.rubyhill.com/special-events/weddings)
 - Pleasanton: [Palm Event Center](https://palmeventcenter.com/get-married/)
 - San Ramon: [The Bridges Golf Club](http://www.thebridgesgolf.com/-celebrate)
 
 ### South Bay
-- Los Gatos: [Nestl Down](http://www.nestldown.com/)
 - Cupertino: [Picchetti Winery](http://www.picchetti.com/)
+- Los Gatos: [Nestl Down](http://www.nestldown.com/)
 - Saratoga: [Montalvo Arts Center](http://montalvoarts.org/)
