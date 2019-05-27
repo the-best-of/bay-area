@@ -174,12 +174,17 @@
 
 # Sports
 
-### North Bay
 ### East Bay
-- Berkeley: [Cal Rugby](https://calbears.com/index.aspx?path=mrugby) - best rugby team in the nation for the last 20-plus years
+- Berkeley: [Cal Berkeley](https://calbears.com)
+- Oakland: [Golden State Warriors](https://www.nba.com/warriors/)
+- Oakland: [Athletics](https://www.mlb.com/athletics)
 ### South Bay
+- San Jose: [Sharks](https://www.nhl.com/sharks)
+- San Jose: [San Jose State University](https://sjsuspartans.com/)
+- San Jose: [49ers](https://www.49ers.com/)
 ### Peninsula
-### San Francisco
+- San Francisco: [Giants](https://www.mlb.com/giants)
+- Palo Alto: [Stanford University](https://gostanford.com/)
 
 
 # Wedding Venues
