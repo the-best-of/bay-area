@@ -219,9 +219,31 @@
 
 
 # Shopping
+### East Bay
+- Livermore: [San Francisco Premium Outlets](https://www.premiumoutlets.com/outlet/san-francisco)
+- Pleasanton: [Stoneridge Shopping Center](https://www.simon.com/mall/stoneridge-shopping-center)
+- Walnut Creek: [Broadway Plaza](https://www.broadwayplaza.com/)
 
 ### Peninsula
+- Burlingame: [Burlingame Avenue](https://www.burlingame.org/doing_business/visitor_information/dining_and_shopping.php)
+- Daly City: [Serramonte Center](https://www.serramontecenter.com/)
 - San Francisco: [Ferry Building Marketplace](https://www.ferrybuildingmarketplace.com/)
+- San Francisco: [Union Square](https://www.visitunionsquaresf.com/)
+- San Francisco: [Westfield San Francisco Centre](https://www.westfield.com/sanfrancisco)
+- San Francisco: [Stonestown Galleria](https://www.stonestowngalleria.com/en.html)
+- Palo Alto: [Stanford Shopping Center](https://www.simon.com/mall/stanford-shopping-center)
+- San Mateo: [Hillsdale Shopping Center](https://hillsdale.com/)
+- San Bruno: [The Shops at Tanforan](https://www.theshopsattanforan.com/)
+
+### North Bay
+- Napa: [Napa Premium Outlets](https://www.premiumoutlets.com/outlet/napa)
+- San Rafael: [Northgate Shopping Centre](http://northgateshoppingcentre.ca/)
+
+### South Bay
+- San Jose: [Gilroy Premium Outlets](https://www.premiumoutlets.com/outlet/gilroy)
+- San Jose: [Santana Row](http://www.santanarow.com/)
+- San Jose: [Westfield Valley Fair](https://www.westfield.com/valleyfair)
+- San Jose: [Oakridge Mall](https://www.westfield.com/oakridge)
 
 
 # Sights
