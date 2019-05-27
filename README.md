@@ -43,7 +43,7 @@
 # Events
 
 ### Easy Bay
-- Berkeley: [Berkeyley Kite festival](http://www.highlinekites.com/pages.php?pageid=21)
+- Berkeley: [Berkeley Kite festival](http://www.highlinekites.com/pages.php?pageid=21)
 
 # Food
 
@@ -55,7 +55,7 @@
 - San Francisco: Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
 - San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
 - San Francisco: [Pineapple King Bakery](http://www.pineapplekingbakery.com/)
-- San Francisco: [State Bird Provisions](https://statebirdsf.com/dinner/)
+- San Francisco: [State Bird Provisions](https://statebirdsf.com/home/)
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
@@ -89,6 +89,7 @@
 - San Francisco: [Exploratorium](https://www.exploratorium.edu/)
 - San Francisco: [Legion of Honor](https://legionofhonor.famsf.org/)
 - San Francisco: [Museum of Modern Art](https://www.sfmoma.org/)
+- San Francisco: [SS Jeremiah O'Brien](https://www.ssjeremiahobrien.org/)
 - San Francisco: [Walt Disney Family Museum](https://www.waltdisney.org/)
 - San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
 
@@ -96,6 +97,7 @@
 - San Jose: [Museum of Quilts and Textiles](https://www.sjquiltmuseum.org/)
 - San Jose: [San Jose Museum of Art](https://sjmusart.org/)
 - San Jose: [Tech Museum of Innovation](https://www.thetech.org/)
+- Santa Clara: [Intel Museum](https://www.intel.com/content/www/us/en/company-overview/intel-museum.html)
 
 
 # Performing Arts
@@ -108,7 +110,6 @@
 - Oakland: [Paramount Theatre](http://www.paramounttheatre.com/)
 
 ### North Bay
-- Mill Valley: [142 Throckmorton Theatre](https://throckmortontheatre.org)
 - Mill Valley: [Mill Valley Fall Arts Festival](http://www.mvfaf.org)
 - Mill Valley: [Mill Valley Film Festival](https://www.mvff.com)
 - Mill Valley: [Mountain Play](https://www.mountainplay.org)
@@ -135,12 +136,17 @@
 - Oakland: [Children's Fairyland](http://fairyland.org/) 
 - Oakland: [Frog Park](https://www.frogpark.org/) 
 - Walnut Creek: [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park)
+- Walnut Creek: [Mount Diablo](http://www.parks.ca.gov/?page_id=517)
 
 ### Peninsula
+- San Francisco: [Chinatown](http://www.sanfranciscochinatown.com/)
+- San Francisco: [Golden Gate Park](https://sfrecpark.org/destination/golden-gate-park/)
 - San Francisco: [Koret Playground & Carousel](https://sfrecpark.org/destination/golden-gate-park/koret-childrens-quarter/)
 - San Francisco: [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/)
 - San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
+- San Francisco: [USS Pampanito submarine](https://maritime.org/uss-pampanito/)
 - San Francisco: [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
+- Boulder Creek: [Big Basin Redwoods](https://www.parks.ca.gov/?page_id=540)
 
 ### South Bay
 - Sunnyvale: [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
@@ -152,12 +158,39 @@
 
 # Shopping
 
-TODO
+### Peninsula
+- San Francisco: [Ferry Building Marketplace](https://www.ferrybuildingmarketplace.com/)
 
 
 # Sights
 
-TODO
+### East Bay
+- Oakland: [Oakland Zoo](https://www.oaklandzoo.org/)
+
+### North Bay
+- Mill Valley: [Muir Woods](https://www.nps.gov/muwo/index.htm)
+
+### Peninsula
+- Felton: [Roaring Camp Railroad](https://www.sanjose.org/listings/roaring-camp-railroads)
+- Half Moon Bay: [Mavericks Beach](https://www.visithalfmoonbay.org/articles/mavericks-biggest-surf-west-coast)
+- San Francisco: [Aquarium of the Bay on Pier 39](https://bayecotarium.org/about/aquarium-of-the-bay/)
+- San Francisco: [Alcatraz Cruizes](https://www.alcatrazcruises.com/)
+- San Francisco: [Boudin Bakery Tour](https://boudinbakery.com/boudin-at-the-wharf/)
+- San Francisco: [Conservatory of Flowers](https://conservatoryofflowers.org/)
+- San Francisco: [Ghirardelli Square](https://www.ghirardellisq.com/)
+- San Francisco: [Giants Ballpark Tours](https://www.mlb.com/giants/ballpark/tours/pregame)
+- San Francisco: [Marine Mammal Center](http://www.marinemammalcenter.org/visiting-us/)
+- San Francisco: [Mount Sutro Open Space Preserve](https://www.ucsf.edu/about/locations/mount-sutro-open-space-reserve)
+- San Francisco: [Nike Missile Site SF-88](http://www.nikemissile.org/site_sf88.shtml)
+- San Francisco: [Red and White Fleet Cruises](https://redandwhite.com/)
+- San Francisco: [San Francisco Zoo](http://www.sfzoo.org/)
+- Santa Cruz: [Natural Bridges](https://www.sanjose.org/listings/natural-bridges-state-beach)
+- Woodside: [Filoli](https://filoli.org/)
+
+### South Bay
+- Monterey: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/)
+- Mt. Hamilton: [Lick Observatory](http://www.ucolick.org/main/index.html)
+- San Jose: [Winchester Mystery House](https://winchestermysteryhouse.com)
 
 
 
