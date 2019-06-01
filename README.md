@@ -141,7 +141,6 @@
 
 ### South Bay
 - Santa Clara County: [Henry W. Coe State Park](https://bahiker.com/southbayhikes/henrycoe/coehh.html)
-- Santa Clara County: [Henry W. Coe State Park](https://bahiker.com/southbayhikes/henrycoe/coehh.html)
 - Santa Clara County: [Joseph D. Grant County Park](https://bahiker.com/southbayhikes/grant.html)
 - Santa Clara County: [Monte Bello Open Space Preserve](https://bahiker.com/southbayhikes/monte.html)
 - Santa Clara County: [Uvas Canyon County Park](https://bahiker.com/southbayhikes/uvas.html)
