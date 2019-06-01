@@ -9,6 +9,7 @@
 - [Day Trips](#day-trips)
 - [Events](#events)
 - [Food](#food)
+- [Fun and Games](#fun-and-games)
 - [Hiking](#hiking)
 - [Museums and Galleries](#museums-and-galleries)
 - [Performing Arts](#performing-arts)
@@ -29,6 +30,8 @@
 - Petaluma: Brewery tour at [Lagunitas Brewing Company](https://lagunitas.com/)
 - Sonoma County: Horseback trail riding in [Bodega Dunes Beach](https://www.sonomacounty.com/outdoor-activities/horse-n-around-trail-rides), then fresh oysters at [Hog Island Oyster Company](https://hogislandoysters.com/) (Marshall, CA) 
 - Point Arena (south of Mendecino): Tour of [Point Arena Light House](https://www.pointarenalighthouse.com/) (the tallest lighthouse on the Pacific Coast), then lunch at [Queenie's Roadhouse Cafe](http://queeniesroadhousecafe.com/)
+- [Cheese Trail](http://cheesetrail.org/) - driving tours of California cheesemakers.
+- Petaluma: [Bioluminescence kayaking tour](https://www.bluewaterskayaking.com/tour/full-moon-sunset-bioluminescence-paddle-tours/)
 
 ### Peninsula
 - Half Moon Bay: [Whale watching](https://www.oceanicsociety.org/whale-watching)
@@ -37,6 +40,7 @@
 - Santa Cruz: Redwood canpoy tours and aerial adventure course at [Mount Hermon Adventures](https://mounthermonadventures.com/)
 - Santa Cruz: Ride the Big Dipper at [Santa Cruz Beach Boardwalk](https://beachboardwalk.com/), then [Marianne's Ice Cream](https://mariannesicecream.com/), then visit [Natural Bridges](http://www.parks.ca.gov/?page_id=541)
 - Santa Cruz: Hike through the redwoods in [Henry Cowell Redwoods State Park](http://www.parks.ca.gov/?page_id=546), or take the steam train through the park on the [Roaring Camp Railroad](https://www.roaringcamp.com/beachtrain)
+- Santa Cruz: [Mystery Spot](https://www.mysteryspot.com/)
 - San Francisco: Tour [Point Bonita Light House](https://www.nps.gov/goga/pobo.htm), then tour the [Nike Missile Site](https://www.nps.gov/goga/nike-missile-site.htm)
 
 
@@ -44,6 +48,7 @@
 # Events
 ### East Bay
 - Berkeley: [Berkeley Kite festival](http://www.highlinekites.com/pages.php?pageid=21)
+- Fremont: [Town Fair Plaza](https://townfairplaza.com/)
 
 
 # Food
@@ -54,6 +59,7 @@
 - San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
 - San Francisco: Sushi [Burma Superstar](https://www.burmasuperstar.com/)
 - San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
+- San Francisco: [Food Safari](http://www.sffoodsafari.com/index.html) A tour of the best delis, coffee houses, bakeries and meat markets.
 - San Francisco: Mission-style burrito [La Taqueria](https://www.jamesbeard.org/blog/2017-americas-classic-la-taqueria)
 - San Francisco: Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
 - San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
@@ -61,8 +67,19 @@
 - San Francisco: [State Bird Provisions](https://statebirdsf.com/home/)
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
+- Santa Cruz: [Harbor Cafe](https://www.harborcafesantacruz.com/)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
 
+### South Bay
+- Campbell Breakfast at [Hash House](http://hashhouse.com/)
+- San Jose: Breakfast at [Breakfast Club](http://www.bcmidtown.com/) 
+- San Jose: [San Pedro Square](http://www.sanpedrosquare.com/)
+- Willow Glen: [The Table](https://thetablesj.com/)
+
+
+# Fun and Games
+### East Bay
+- Berkeley: [Victory Point Cafe](https://www.victorypointcafe.com) Hundreds of board games, snacks, coffee and beer
 
 
 # Hiking
@@ -126,7 +143,7 @@
 
 # Museums and Galleries
 ### East Bay
-- Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/)
+- Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/) You can play most of the machines.
 - Alameda: [USS Hornet](http://www.uss-hornet.org)
 - Moraga: [Classic Film Hall of Fame](http://www.cffhof.org/eng/)
 - Oakland: [Chabot Space and Science Center](http://www.chabotspace.org)
@@ -159,6 +176,7 @@
 - San Jose: [San Jose Museum of Art](https://sjmusart.org/)
 - San Jose: [Tech Museum of Innovation](https://www.thetech.org/)
 - Santa Clara: [Intel Museum](https://www.intel.com/content/www/us/en/company-overview/intel-museum.html)
+- Monterey: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/)
 
 
 # Performing Arts
@@ -176,6 +194,7 @@
 - Sausalito: [Sausalito Art Festival](https://www.sausalitoartfestival.org)
 
 ### Peninsula:
+- Palo Alto: [Stanford Theatre](https://stanfordtheatre.org/) - Opened in 1925
 - San Francisco: Free concerts at [Stern Grove Festival](https://www.sterngrove.org/)
 
 ### South Bay:
@@ -192,6 +211,7 @@
 # Parks & Playgrounds
 ### East Bay
 - Berkeley: [Adventure Playground](https://www.cityofberkeley.info/adventureplayground)
+- Berkeley: [Tilden Park Merry Go Round](http://www.tildenmerrygoround.org/)
 - Oakland: [Children's Fairyland](http://fairyland.org/) 
 - Oakland: [Frog Park](https://www.frogpark.org/) 
 - Walnut Creek: [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park)
@@ -204,6 +224,7 @@
 - San Francisco: [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/)
 - San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
 - San Francisco: [USS Pampanito submarine](https://maritime.org/uss-pampanito/)
+- San Francisco: [Wave Organ](https://www.exploratorium.edu/visit/wave-organ/)
 - San Francisco: [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
 - Boulder Creek: [Big Basin Redwoods](https://www.parks.ca.gov/?page_id=540)
 
@@ -249,6 +270,7 @@
 
 ### North Bay
 - Mill Valley: [Muir Woods](https://www.nps.gov/muwo/index.htm)
+- Sausalito: [Bay Model](https://www.youtube.com/watch?v=i70wkxmumAw)
 
 ### Peninsula
 - Felton: [Roaring Camp Railroad](https://www.sanjose.org/listings/roaring-camp-railroads)
@@ -256,14 +278,17 @@
 - San Francisco: [Aquarium of the Bay on Pier 39](https://bayecotarium.org/about/aquarium-of-the-bay/)
 - San Francisco: [Alcatraz Cruizes](https://www.alcatrazcruises.com/)
 - San Francisco: [Boudin Bakery Tour](https://boudinbakery.com/boudin-at-the-wharf/)
+- San Francisco: [Cliff House and Sutro Baths](https://www.nps.gov/goga/planyourvisit/cliff-house-sutro-baths.htm)
 - San Francisco: [Conservatory of Flowers](https://conservatoryofflowers.org/)
 - San Francisco: [Ghirardelli Square](https://www.ghirardellisq.com/)
 - San Francisco: [Giants Ballpark Tours](https://www.mlb.com/giants/ballpark/tours/pregame)
 - San Francisco: [Marine Mammal Center](http://www.marinemammalcenter.org/visiting-us/)
 - San Francisco: [Mount Sutro Open Space Preserve](https://www.ucsf.edu/about/locations/mount-sutro-open-space-reserve)
 - San Francisco: [Nike Missile Site SF-88](http://www.nikemissile.org/site_sf88.shtml)
+- San Francisco: [Painted Ladies](https://en.wikipedia.org/wiki/Painted_ladies)
 - San Francisco: [Red and White Fleet Cruises](https://redandwhite.com/)
 - San Francisco: [San Francisco Zoo](http://www.sfzoo.org/)
+- San Francisco: [Walk across the Golden Gate Bridge](https://www.oursausalito.com/golden-gate-bridge/walk-across-the-golden-gate-bridge.html)
 - Santa Cruz: [Natural Bridges](https://www.sanjose.org/listings/natural-bridges-state-beach)
 - Woodside: [Filoli](https://filoli.org/)
 
