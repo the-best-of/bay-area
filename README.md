@@ -22,12 +22,12 @@
 
 # Day Trips
 ### East Bay
-- Santa Rosa: See exotic animals at [Safari West](https://www.safariwest.com/), then drink some Pliny the Elder beer at [Russian River Brewing Company](https://russianriverbrewing.com/)
 - Livermore: Explore the [Livermore Valley Wine Country](https://www.lvwine.org/itinerary-planner.php)
 
 ### North Bay
 - Guerneville: Float on the Russian River at [Johnson's Beach](https://johnsonsbeach.com/), then ice cream and pie at [Guerneville Bank Club](http://www.guernevillebankclub.com/)
 - Petaluma: Brewery tour at [Lagunitas Brewing Company](https://lagunitas.com/)
+- Santa Rosa: See exotic animals at [Safari West](https://www.safariwest.com/), then drink some Pliny the Elder beer at [Russian River Brewing Company](https://russianriverbrewing.com/)
 - Sonoma County: Horseback trail riding in [Bodega Dunes Beach](https://www.sonomacounty.com/outdoor-activities/horse-n-around-trail-rides), then fresh oysters at [Hog Island Oyster Company](https://hogislandoysters.com/) (Marshall, CA) 
 - Point Arena (south of Mendecino): Tour of [Point Arena Light House](https://www.pointarenalighthouse.com/) (the tallest lighthouse on the Pacific Coast), then lunch at [Queenie's Roadhouse Cafe](http://queeniesroadhousecafe.com/)
 - [Cheese Trail](http://cheesetrail.org/) - driving tours of California cheesemakers.
