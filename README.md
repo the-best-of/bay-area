@@ -23,7 +23,7 @@
 # Day Trips
 ### East Bay
 - Livermore: 
-  - Explore the [Livermore Valley Wine Country](https://www.lvwine.org/itinerary-planner.php)
+  - [Livermore Valley Wine Country](https://www.lvwine.org/itinerary-planner.php)
 
 ### North Bay
 - Guerneville: 
@@ -72,29 +72,29 @@
 
 ### Peninsula
 - San Francisco: 
-  - Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
-  - Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
+  - [Anchor Steam](https://www.anchorbrewing.com/brewery/tours) - Brewery tour
+  - [Del Popolo](http://www.delpopolosf.com/) - Wood fired pizza 
   - [Food Safari](http://www.sffoodsafari.com/index.html) - A tour of the best delis, coffee houses, bakeries and meat markets.
   - [Foreign Cinema](https://www.opentable.com/r/foreign-cinema-san-francisco) - Combining independent films with California-Mediterranean cooking
-  - Mission-style burrito [La Taqueria](https://www.jamesbeard.org/blog/2017-americas-classic-la-taqueria)
+  - [La Taqueria](https://www.jamesbeard.org/blog/2017-americas-classic-la-taqueria) - Mission-style burrito 
   - [Lazy Bear](https://www.sftravel.com/article/everything-you-need-know-about-san-franciscos-legendary-lazy-bear) - $$$$
-  - Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
-  - Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
+  - [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco) - Foccacia
+  - [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html) - Irish Coffee
   - [Pineapple King Bakery](http://www.pineapplekingbakery.com/)
   - [State Bird Provisions](https://statebirdsf.com/home/)
   - [Swan Oyster Depot](http://swanoysterdepot.us/)
-  - Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
+  - [Tartine Bakery](https://www.tartinebakery.com/) - Try the croissants
   - [Urban Putt](https://www.sftravel.com/explore/activities/urban-putt) - Good food and indoor mini golf.
 - San Mateo: 
-  - Breakfast at [Nini's Coffee Shop](https://www.yelp.com/biz/ninis-coffee-shop-san-mateo)
+  - [Nini's Coffee Shop](https://www.yelp.com/biz/ninis-coffee-shop-san-mateo) - Breakfast
 - Woodside: 
   - [Alice's](http://www.alicesrestaurant.com/)
 
 ### South Bay
 - Campbell 
-    - Breakfast at [Hash House](http://hashhouse.com/)
+    - [Hash House](http://hashhouse.com/) - Breakfast
 - San Jose: 
-  - Breakfast at [Breakfast Club](http://www.bcmidtown.com/) 
+  - [Breakfast Club](http://www.bcmidtown.com/) - Breakfast
   - [San Pedro Square](http://www.sanpedrosquare.com/)
 - Santa Cruz: 
   - [Harbor Cafe](https://www.harborcafesantacruz.com/)
@@ -291,7 +291,7 @@
 - Palo Alto: 
   - [Stanford Theatre](https://stanfordtheatre.org/) - Opened in 1925
 - San Francisco: 
-  - Free concerts at [Stern Grove Festival](https://www.sterngrove.org/)
+  - [Stern Grove Festival](https://www.sterngrove.org/) - Free concerts
 
 ### South Bay:
 - San Jose: 
