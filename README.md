@@ -481,4 +481,5 @@
 - San Jose: 
   - [Cinnabar Hills Golf Club](https://www.cinnabarhills.com/events/wedding-information)
 - Saratoga: 
+  - [Hakone](http://www.hakone.com/plan-your-event/weddings-receptions.html) - One of the oldest Japanese estate, retreat and gardens in the Western Hemisphere
   - [Montalvo Arts Center](http://montalvoarts.org/)
