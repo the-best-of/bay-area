@@ -37,6 +37,8 @@
 - Half Moon Bay: [Whale watching](https://www.oceanicsociety.org/whale-watching)
 - Pescadero: Breakfast at [Alice's](http://www.alicesrestaurant.com/), then [Harley Farms Goat Dairy](http://harleyfarms.com/), then [Duarte's Tavern](http://www.duartestavern.com/) for artichoke soup and olallieberry pie.
 - Pescadero: [Pigeon Point Light Station](https://www.parks.ca.gov/?page_id=533), then Elephant seals at [Año Nuevo State Park](http://www.parks.ca.gov/?page_id=523), then eat pie at [Pie Ranch](https://www.pieranch.org/)
+
+### South Bay
 - Santa Cruz: Redwood canpoy tours and aerial adventure course at [Mount Hermon Adventures](https://mounthermonadventures.com/)
 - Santa Cruz: Ride the Big Dipper at [Santa Cruz Beach Boardwalk](https://beachboardwalk.com/), then [Marianne's Ice Cream](https://mariannesicecream.com/), then visit [Natural Bridges](http://www.parks.ca.gov/?page_id=541)
 - Santa Cruz: Hike through the redwoods in [Henry Cowell Redwoods State Park](http://www.parks.ca.gov/?page_id=546), or take the steam train through the park on the [Roaring Camp Railroad](https://www.roaringcamp.com/beachtrain)
@@ -69,7 +71,6 @@
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
 - San Francisco: [Urban Putt](https://www.sftravel.com/explore/activities/urban-putt) - Good food and indoor mini golf.
-- Santa Cruz: [Harbor Cafe](https://www.harborcafesantacruz.com/)
 - San Mateo: Breakfast at [Nini's Coffee Shop](https://www.yelp.com/biz/ninis-coffee-shop-san-mateo)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
 
@@ -77,6 +78,7 @@
 - Campbell Breakfast at [Hash House](http://hashhouse.com/)
 - San Jose: Breakfast at [Breakfast Club](http://www.bcmidtown.com/) 
 - San Jose: [San Pedro Square](http://www.sanpedrosquare.com/)
+- Santa Cruz: [Harbor Cafe](https://www.harborcafesantacruz.com/)
 - Willow Glen: [The Table](https://thetablesj.com/)
 
 
@@ -300,13 +302,13 @@
 - San Francisco: [Red and White Fleet Cruises](https://redandwhite.com/)
 - San Francisco: [San Francisco Zoo](http://www.sfzoo.org/)
 - San Francisco: [Walk across the Golden Gate Bridge](https://www.oursausalito.com/golden-gate-bridge/walk-across-the-golden-gate-bridge.html)
-- Santa Cruz: [Natural Bridges](https://www.sanjose.org/listings/natural-bridges-state-beach)
 - Woodside: [Filoli](https://filoli.org/)
 
 ### South Bay
 - Monterey: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/)
 - Mt. Hamilton: [Lick Observatory](http://www.ucolick.org/main/index.html)
 - San Jose: [Winchester Mystery House](https://winchestermysteryhouse.com)
+- Santa Cruz: [Natural Bridges](https://www.sanjose.org/listings/natural-bridges-state-beach)
 
 
 # Sports
