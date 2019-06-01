@@ -39,12 +39,11 @@
 - Pescadero: [Pigeon Point Light Station](https://www.parks.ca.gov/?page_id=533), then Elephant seals at [Año Nuevo State Park](http://www.parks.ca.gov/?page_id=523), then eat pie at [Pie Ranch](https://www.pieranch.org/)
 
 ### South Bay
+- San Francisco: Tour [Point Bonita Light House](https://www.nps.gov/goga/pobo.htm), then tour the [Nike Missile Site](https://www.nps.gov/goga/nike-missile-site.htm)
 - Santa Cruz: Redwood canpoy tours and aerial adventure course at [Mount Hermon Adventures](https://mounthermonadventures.com/)
 - Santa Cruz: Ride the Big Dipper at [Santa Cruz Beach Boardwalk](https://beachboardwalk.com/), then [Marianne's Ice Cream](https://mariannesicecream.com/), then visit [Natural Bridges](http://www.parks.ca.gov/?page_id=541)
 - Santa Cruz: Hike through the redwoods in [Henry Cowell Redwoods State Park](http://www.parks.ca.gov/?page_id=546), or take the steam train through the park on the [Roaring Camp Railroad](https://www.roaringcamp.com/beachtrain)
 - Santa Cruz: [Mystery Spot](https://www.mysteryspot.com/)
-- San Francisco: Tour [Point Bonita Light House](https://www.nps.gov/goga/pobo.htm), then tour the [Nike Missile Site](https://www.nps.gov/goga/nike-missile-site.htm)
-
 
 
 # Events
@@ -127,9 +126,6 @@
 
 ### Peninsula
 - San Bruno: [San Bruno Mountain State and County Park](https://bahiker.com/southbayhikes/sanbrunosummit.html)
-- Santa Cruz: [Año Nuevo State Park](https://bahiker.com/southbayhikes/anonuevo2.html)
-- Santa Cruz: [Castle Rock State Park](https://bahiker.com/southbayhikes/castlerock.html)
-- Santa Cruz: [Waterfall Loop](https://bahiker.com/southbayhikes/bigbasin/waterfallloop.html)
 - Pacifica: [Waterfall Loop, San Pedro Valley Park](https://bahiker.com/southbayhikes/sanpedro.html)
 - Redwood City: [Edgewood County Park](https://bahiker.com/southbayhikes/edgewood.html)
 - San Mateo County: [Fitzgerald Marine Reserve](https://bahiker.com/southbayhikes/fitzgerald.html)
@@ -146,6 +142,9 @@
 - Santa Clara County: [Joseph D. Grant County Park](https://bahiker.com/southbayhikes/grant.html)
 - Santa Clara County: [Monte Bello Open Space Preserve](https://bahiker.com/southbayhikes/monte.html)
 - Santa Clara County: [Uvas Canyon County Park](https://bahiker.com/southbayhikes/uvas.html)
+- Santa Cruz: [Año Nuevo State Park](https://bahiker.com/southbayhikes/anonuevo2.html)
+- Santa Cruz: [Castle Rock State Park](https://bahiker.com/southbayhikes/castlerock.html)
+- Santa Cruz: [Waterfall Loop](https://bahiker.com/southbayhikes/bigbasin/waterfallloop.html)
 
 
 # Museums and Galleries
