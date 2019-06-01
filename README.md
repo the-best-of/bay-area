@@ -12,8 +12,8 @@
 - [Fun and Games](#fun-and-games)
 - [Hiking](#hiking)
 - [Museums and Galleries](#museums-and-galleries)
-- [Performing Arts](#performing-arts)
 - [Parks & Playgrounds](#parks--playgrounds)
+- [Performing Arts](#performing-arts)
 - [Shopping](#shopping)
 - [Sights](#sights)
 - [Sports](#sports)
@@ -59,15 +59,19 @@
 - San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
 - San Francisco: Sushi [Burma Superstar](https://www.burmasuperstar.com/)
 - San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
-- San Francisco: [Food Safari](http://www.sffoodsafari.com/index.html) A tour of the best delis, coffee houses, bakeries and meat markets.
+- San Francisco: [Food Safari](http://www.sffoodsafari.com/index.html) - A tour of the best delis, coffee houses, bakeries and meat markets.
+- San Francisco: [Foreign Cinema](https://www.opentable.com/r/foreign-cinema-san-francisco) - Combining independent films with California-Mediterranean cooking
 - San Francisco: Mission-style burrito [La Taqueria](https://www.jamesbeard.org/blog/2017-americas-classic-la-taqueria)
+- San Francisco: [Lazy Bear](https://www.sftravel.com/article/everything-you-need-know-about-san-franciscos-legendary-lazy-bear) - $$$$
 - San Francisco: Foccacia at [Liguria Bakery](https://www.yelp.com/biz/liguria-bakery-san-francisco)
 - San Francisco: Irish Coffee at [The Buena Vista](http://thebuenavista.com/home/irishcoffee.html)
 - San Francisco: [Pineapple King Bakery](http://www.pineapplekingbakery.com/)
 - San Francisco: [State Bird Provisions](https://statebirdsf.com/home/)
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
+- San Francisco: Croissants at [Urban Putt](https://www.sftravel.com/explore/activities/urban-putt) - Good food and indoor mini golf.
 - Santa Cruz: [Harbor Cafe](https://www.harborcafesantacruz.com/)
+- San Mateo: Breakfast at [Nini's Coffee Shop](https://www.yelp.com/biz/ninis-coffee-shop-san-mateo)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
 
 ### South Bay
@@ -79,7 +83,7 @@
 
 # Fun and Games
 ### East Bay
-- Berkeley: [Victory Point Cafe](https://www.victorypointcafe.com) Hundreds of board games, snacks, coffee and beer
+- Berkeley: [Victory Point Cafe](https://www.victorypointcafe.com) - Hundreds of board games, snacks, coffee and beer
 
 
 # Hiking
@@ -181,6 +185,35 @@
 - Monterey: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/)
 
 
+# Parks & Playgrounds
+### East Bay
+- Berkeley: [Adventure Playground](https://www.cityofberkeley.info/adventureplayground)
+- Berkeley: [Tilden Park Merry Go Round](http://www.tildenmerrygoround.org/)
+- Oakland: [Children's Fairyland](http://fairyland.org/) 
+- Oakland: [Frog Park](https://www.frogpark.org/) 
+- Walnut Creek: [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park)
+- Walnut Creek: [Mount Diablo](http://www.parks.ca.gov/?page_id=517)
+
+### Peninsula
+- San Francisco: [Chinatown](http://www.sanfranciscochinatown.com/)
+- San Francisco: [Golden Gate Park](https://sfrecpark.org/destination/golden-gate-park/)
+- San Francisco: [Koret Playground & Carousel](https://sfrecpark.org/destination/golden-gate-park/koret-childrens-quarter/)
+- San Francisco: [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/)
+- San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
+- San Francisco: [USS Pampanito submarine](https://maritime.org/uss-pampanito/)
+- San Francisco: [Wave Organ](https://www.exploratorium.edu/visit/wave-organ/)
+- San Francisco: [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
+- Boulder Creek: [Big Basin Redwoods](https://www.parks.ca.gov/?page_id=540)
+
+### South Bay
+- Sunnyvale: [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
+- San Jose: [Monopoly in the Park](http://www.monopolyinthepark.com/)
+- Los Gatos: [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park)
+- San Jose: [Happy Hollow Park and Zoo](https://happyhollow.org/)
+- San Jose: [Rotary Playgarden](http://www.rotaryplaygarden.org/)
+
+
+
 # Performing Arts
 ### East Bay
 - Berkeley: [Berkeley Repertory Theatre](http://www.berkeleyrep.org)
@@ -210,32 +243,6 @@
 - San Jose: [Symphony Silicon Valley](https://www.sanjose.org/listings/symphony-silicon-valley)
 
 
-# Parks & Playgrounds
-### East Bay
-- Berkeley: [Adventure Playground](https://www.cityofberkeley.info/adventureplayground)
-- Berkeley: [Tilden Park Merry Go Round](http://www.tildenmerrygoround.org/)
-- Oakland: [Children's Fairyland](http://fairyland.org/) 
-- Oakland: [Frog Park](https://www.frogpark.org/) 
-- Walnut Creek: [Larkey Park](https://www.yelp.com/biz/larkey-park-walnut-creek?osq=larkey+park)
-- Walnut Creek: [Mount Diablo](http://www.parks.ca.gov/?page_id=517)
-
-### Peninsula
-- San Francisco: [Chinatown](http://www.sanfranciscochinatown.com/)
-- San Francisco: [Golden Gate Park](https://sfrecpark.org/destination/golden-gate-park/)
-- San Francisco: [Koret Playground & Carousel](https://sfrecpark.org/destination/golden-gate-park/koret-childrens-quarter/)
-- San Francisco: [Lafayette Park](https://sfrecpark.org/destination/lafayette-park/)
-- San Francisco: [Mission Dolores Park](https://sfrecpark.org/project/mission-dolores-park-helen-diller-playground/)
-- San Francisco: [USS Pampanito submarine](https://maritime.org/uss-pampanito/)
-- San Francisco: [Wave Organ](https://www.exploratorium.edu/visit/wave-organ/)
-- San Francisco: [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
-- Boulder Creek: [Big Basin Redwoods](https://www.parks.ca.gov/?page_id=540)
-
-### South Bay
-- Sunnyvale: [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
-- San Jose: [Monopoly in the Park](http://www.monopolyinthepark.com/)
-- Los Gatos: [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park)
-- San Jose: [Happy Hollow Park and Zoo](https://happyhollow.org/)
-- San Jose: [Rotary Playgarden](http://www.rotaryplaygarden.org/)
 
 
 
