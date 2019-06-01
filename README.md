@@ -143,7 +143,7 @@
 
 # Museums and Galleries
 ### East Bay
-- Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/) You can play most of the machines.
+- Alameda: [Pacific Pinball Museum](https://www.pacificpinball.org/) - You can play most of the machines.
 - Alameda: [USS Hornet](http://www.uss-hornet.org)
 - Moraga: [Classic Film Hall of Fame](http://www.cffhof.org/eng/)
 - Oakland: [Chabot Space and Science Center](http://www.chabotspace.org)
@@ -172,7 +172,9 @@
 - San Francisco: [Yerba Buena Center for the Arts](https://www.ybca.org/)
 
 ### South Bay
+- San Jose: [Children's Discovery Museum](https://www.cdm.org/)
 - San Jose: [Museum of Quilts and Textiles](https://www.sjquiltmuseum.org/)
+- San Jose: [Rosicrucian Museum](https://www.rosicrucian.org/)
 - San Jose: [San Jose Museum of Art](https://sjmusart.org/)
 - San Jose: [Tech Museum of Innovation](https://www.thetech.org/)
 - Santa Clara: [Intel Museum](https://www.intel.com/content/www/us/en/company-overview/intel-museum.html)
@@ -232,6 +234,7 @@
 - Sunnyvale: [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
 - San Jose: [Monopoly in the Park](http://www.monopolyinthepark.com/)
 - Los Gatos: [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park)
+- San Jose: [Happy Hollow Park and Zoo](https://happyhollow.org/)
 - San Jose: [Rotary Playgarden](http://www.rotaryplaygarden.org/)
 
 
@@ -311,6 +314,7 @@
 ### South Bay
 - San Jose: [49ers](https://www.49ers.com/)
 - San Jose: [Earthquakes](https://www.sjearthquakes.com/)
+- San Jose: [San Jose Giants](https://www.milb.com/san-jose) - Class A - Advanced baseball affiliate of the San Francisco Giants
 - San Jose: [San Jose State University](https://sjsuspartans.com/)
 - San Jose: [Sharks](https://www.nhl.com/sharks)
 
