@@ -35,11 +35,11 @@
 
 ### Peninsula
 - Half Moon Bay: [Whale watching](https://www.oceanicsociety.org/whale-watching)
-- Pescadero: Breakfast at [Alice's](http://www.alicesrestaurant.com/), then [Harley Farms Goat Dairy](http://harleyfarms.com/), then [Duarte's Tavern](http://www.duartestavern.com/) for artichoke soup and olallieberry pie.
-- Pescadero: [Pigeon Point Light Station](https://www.parks.ca.gov/?page_id=533), then Elephant seals at [Año Nuevo State Park](http://www.parks.ca.gov/?page_id=523), then eat pie at [Pie Ranch](https://www.pieranch.org/)
 - San Francisco: Tour [Point Bonita Light House](https://www.nps.gov/goga/pobo.htm), then tour the [Nike Missile Site](https://www.nps.gov/goga/nike-missile-site.htm)
 
 ### South Bay
+- Pescadero: Breakfast at [Alice's](http://www.alicesrestaurant.com/), then [Harley Farms Goat Dairy](http://harleyfarms.com/), then [Duarte's Tavern](http://www.duartestavern.com/) for artichoke soup and olallieberry pie.
+- Pescadero: [Pigeon Point Light Station](https://www.parks.ca.gov/?page_id=533), then Elephant seals at [Año Nuevo State Park](http://www.parks.ca.gov/?page_id=523), then eat pie at [Pie Ranch](https://www.pieranch.org/)
 - Santa Cruz: Redwood canpoy tours and aerial adventure course at [Mount Hermon Adventures](https://mounthermonadventures.com/)
 - Santa Cruz: Ride the Big Dipper at [Santa Cruz Beach Boardwalk](https://beachboardwalk.com/), then [Marianne's Ice Cream](https://mariannesicecream.com/), then visit [Natural Bridges](http://www.parks.ca.gov/?page_id=541)
 - Santa Cruz: Hike through the redwoods in [Henry Cowell Redwoods State Park](http://www.parks.ca.gov/?page_id=546), or take the steam train through the park on the [Roaring Camp Railroad](https://www.roaringcamp.com/beachtrain)
@@ -130,7 +130,6 @@
 - Redwood City: [Edgewood County Park](https://bahiker.com/southbayhikes/edgewood.html)
 - San Mateo County: [Fitzgerald Marine Reserve](https://bahiker.com/southbayhikes/fitzgerald.html)
 - San Mateo County: [McNee Ranch State Park](https://bahiker.com/southbayhikes/mcneeranch.html)
-- San Mateo County: [Pescadero Marsh Natural Preserve](https://bahiker.com/southbayhikes/pescaderomarsh.html)
 - San Mateo County: [Pillar Point](https://bahiker.com/southbayhikes/pillarpt.html)
 - San Mateo County: [Portola Redwoods State Park](https://bahiker.com/southbayhikes/portola.html)
 - San Mateo County: [Russian Ridge Open Space Preserve](https://bahiker.com/southbayhikes/russianridge.html)
@@ -138,6 +137,7 @@
 - San Mateo County: [Summit Loop, San Bruno Mountain State and County Park](https://bahiker.com/southbayhikes/sanbrunosummit.html)
 
 ### South Bay
+- Pescadero: [Pescadero Marsh Natural Preserve](https://bahiker.com/southbayhikes/pescaderomarsh.html)
 - Santa Clara County: [Henry W. Coe State Park](https://bahiker.com/southbayhikes/henrycoe/coehh.html)
 - Santa Clara County: [Joseph D. Grant County Park](https://bahiker.com/southbayhikes/grant.html)
 - Santa Clara County: [Monte Bello Open Space Preserve](https://bahiker.com/southbayhikes/monte.html)
