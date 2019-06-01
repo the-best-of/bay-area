@@ -266,7 +266,7 @@
   - [Monopoly in the Park](http://www.monopolyinthepark.com/)
   - [Happy Hollow Park and Zoo](https://happyhollow.org/)
   - [Rotary Playgarden](http://www.rotaryplaygarden.org/)
-  - [Emma Prusch Park](http://www.pruschfarmpark.org/) - A park with chicking just walking around chilling.
+  - [Emma Prusch Park](http://www.pruschfarmpark.org/) - A park with chickens just walking around chilling.
 
 
 
