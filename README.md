@@ -57,7 +57,6 @@
 
 ### Peninsula
 - San Francisco: Brewery tour at [Anchor Steam](https://www.anchorbrewing.com/brewery/tours)
-- San Francisco: Sushi [Burma Superstar](https://www.burmasuperstar.com/)
 - San Francisco: Wood fired pizza [Del Popolo](http://www.delpopolosf.com/)
 - San Francisco: [Food Safari](http://www.sffoodsafari.com/index.html) - A tour of the best delis, coffee houses, bakeries and meat markets.
 - San Francisco: [Foreign Cinema](https://www.opentable.com/r/foreign-cinema-san-francisco) - Combining independent films with California-Mediterranean cooking
@@ -84,6 +83,9 @@
 # Fun and Games
 ### East Bay
 - Berkeley: [Victory Point Cafe](https://www.victorypointcafe.com) - Hundreds of board games, snacks, coffee and beer
+
+### Peninsula
+- Half Moon Bay: [The Mavericks Experience](https://www.mavericksexperience.com/) - Surf lessons
 
 
 # Hiking
@@ -284,7 +286,7 @@
 
 ### Peninsula
 - Felton: [Roaring Camp Railroad](https://www.sanjose.org/listings/roaring-camp-railroads)
-- Half Moon Bay: [Mavericks Beach](https://www.visithalfmoonbay.org/articles/mavericks-biggest-surf-west-coast)
+- Half Moon Bay: [Mavericks Beach](https://www.visithalfmoonbay.org/articles/mavericks-biggest-surf-west-coast) - Some of the biggest waves in the world.
 - San Francisco: [Aquarium of the Bay on Pier 39](https://bayecotarium.org/about/aquarium-of-the-bay/)
 - San Francisco: [Alcatraz Cruizes](https://www.alcatrazcruises.com/)
 - San Francisco: [Boudin Bakery Tour](https://boudinbakery.com/boudin-at-the-wharf/)
@@ -321,7 +323,7 @@
 ### South Bay
 - San Jose: [49ers](https://www.49ers.com/)
 - San Jose: [Earthquakes](https://www.sjearthquakes.com/)
-- San Jose: [San Jose Giants](https://www.milb.com/san-jose) - Class A - Advanced baseball affiliate of the San Francisco Giants
+- San Jose: [Giants](https://www.milb.com/san-jose) - Class A - Advanced baseball affiliate of the San Francisco Giants
 - San Jose: [San Jose State University](https://sjsuspartans.com/)
 - San Jose: [Sharks](https://www.nhl.com/sharks)
 
