@@ -69,7 +69,7 @@
 - San Francisco: [State Bird Provisions](https://statebirdsf.com/home/)
 - San Francisco: [Swan Oyster Depot](http://swanoysterdepot.us/)
 - San Francisco: Croissants at [Tartine Bakery](https://www.tartinebakery.com/)
-- San Francisco: Croissants at [Urban Putt](https://www.sftravel.com/explore/activities/urban-putt) - Good food and indoor mini golf.
+- San Francisco: [Urban Putt](https://www.sftravel.com/explore/activities/urban-putt) - Good food and indoor mini golf.
 - Santa Cruz: [Harbor Cafe](https://www.harborcafesantacruz.com/)
 - San Mateo: Breakfast at [Nini's Coffee Shop](https://www.yelp.com/biz/ninis-coffee-shop-san-mateo)
 - Woodside: [Alice's](http://www.alicesrestaurant.com/)
