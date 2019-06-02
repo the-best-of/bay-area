@@ -71,6 +71,8 @@
 - Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
 
 ### Peninsula
+- Mountain View
+  - [Vaso Azzurro](https://www.vasoazzurro.com/) - Family owned italian
 - San Francisco: 
   - [Anchor Steam](https://www.anchorbrewing.com/brewery/tours) - Brewery tour
   - [Del Popolo](http://www.delpopolosf.com/) - Wood fired pizza 
@@ -92,15 +94,18 @@
 
 ### South Bay
 - Campbell 
-    - [Hash House](http://hashhouse.com/) - Breakfast
-- San Jose: 
+  - [Hash House](http://hashhouse.com/) - Breakfast
+- Los Gatos
+  - [Enoteca La Storia](https://www.enotecalastoria.com/)
+  - [Nick's Next Door](http://www.nicksnextdoor.com/)
+- San Jose Downtown:
+  - [Back-A-Yard](http://backayard.net/) - Carribean
   - [Breakfast Club](http://www.bcmidtown.com/) - Breakfast
   - [San Pedro Square](http://www.sanpedrosquare.com/)
 - Santa Cruz: 
   - [Harbor Cafe](https://www.harborcafesantacruz.com/)
 - Willow Glen: 
   - [The Table](https://thetablesj.com/)
-
 
 # Fun and Games
 ### East Bay
