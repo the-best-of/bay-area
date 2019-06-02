@@ -237,6 +237,8 @@
 - Berkeley: 
   - [Adventure Playground](https://www.cityofberkeley.info/adventureplayground)
   - [Tilden Park Merry Go Round](http://www.tildenmerrygoround.org/)
+- Fremont
+  - [Ardenwood Historic Farm](https://www.ebparks.org/parks/ardenwood/)
 - Oakland: 
   - [Children's Fairyland](http://fairyland.org/) 
   - [Frog Park](https://www.frogpark.org/) 
