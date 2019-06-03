@@ -97,6 +97,7 @@
   - [Breakfast Club](http://www.bcmidtown.com/) - Breakfast
   - [San Pedro Square](http://www.sanpedrosquare.com/)
 - Santa Cruz: 
+  - [Aldo's](http://www.aldos-cruz.com/) - Featured on Diners Drive-ins and Dives
   - [Harbor Cafe](https://www.harborcafesantacruz.com/)
 - Willow Glen: 
   - [The Table](https://thetablesj.com/)
@@ -171,6 +172,7 @@
 - Pescadero: 
   - [Pescadero Marsh Natural Preserve](https://bahiker.com/southbayhikes/pescaderomarsh.html)
 - Santa Clara County: 
+  - [Almaden Quicksilver County Park](https://www.sccgov.org/sites/parks/parkfinder/Pages/AlmadenPark.aspx)
   - [Henry W. Coe State Park](https://bahiker.com/southbayhikes/henrycoe/coehh.html)
   - [Joseph D. Grant County Park](https://bahiker.com/southbayhikes/grant.html)
   - [Monte Bello Open Space Preserve](https://bahiker.com/southbayhikes/monte.html)
@@ -179,6 +181,7 @@
   - [Año Nuevo State Park](https://bahiker.com/southbayhikes/anonuevo2.html)
   - [Castle Rock State Park](https://bahiker.com/southbayhikes/castlerock.html)
   - [Waterfall Loop](https://bahiker.com/southbayhikes/bigbasin/waterfallloop.html)
+
 
 
 # Museums and Galleries
@@ -260,6 +263,7 @@
 ### South Bay
 - Los Gatos: 
   - [Oak Meadow Park](https://www.losgatosca.gov/910/Oak-Meadow-Park)
+  - [Los Gatos Creek Trail](https://www.sccgov.org/sites/parks/parkfinder/Pages/LosGatosCreek.aspx)
 - Sunnyvale: 
   - [Las Palmas Park](https://www.yelp.com/biz/las-palmas-park-sunnyvale/)
 - San Jose: 
