@@ -212,7 +212,7 @@
 
 ### Peninsula
 - Burlingame:
-  - [Burlingame Pez Museum](https://www.burlingamepezmuseum.com/)
+  - [Burlingame Pez Museum /  Classic Toy Museum / Banned Toy Museum](https://www.burlingamepezmuseum.com/)
 - Mountain View: 
   - [Computer History Museum](https://www.computerhistory.org/)
 - San Francisco: 
