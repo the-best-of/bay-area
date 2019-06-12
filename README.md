@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./logo.svg" alt="logo of the awesome-bay-area repository">
+  <img width="400" src="./assets/logo.svg" alt="logo of the awesome-bay-area repository">
   <br>
   <br>
 </p>
@@ -211,6 +211,8 @@
   - [Bay Kids Museum](http://www.baykidsmuseum.org/)
 
 ### Peninsula
+- Burlingame:
+  - [Burlingame Pez Museum](https://www.burlingamepezmuseum.com/)
 - Mountain View: 
   - [Computer History Museum](https://www.computerhistory.org/)
 - San Francisco: 
@@ -226,6 +228,8 @@
   - [SS Jeremiah O'Brien](https://www.ssjeremiahobrien.org/)
   - [Walt Disney Family Museum](https://www.waltdisney.org/)
   - [Yerba Buena Center for the Arts](https://www.ybca.org/)
+- San Mateo:
+  - [Hiller Aviation Museum](https://www.hiller.org/)
 
 ### South Bay
 - San Jose: 
@@ -266,6 +270,8 @@
   - [USS Pampanito submarine](https://maritime.org/uss-pampanito/)
   - [Wave Organ](https://www.exploratorium.edu/visit/wave-organ/)
   - [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
+- San Mateo:
+  - [CuriOdyssey](https://curiodyssey.org/) - Science and wildlife center for kids
 
 ### South Bay
 - Los Gatos: 
