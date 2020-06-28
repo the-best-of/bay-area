@@ -75,6 +75,7 @@
 - San Francisco: 
   - [Anchor Steam](https://www.anchorbrewing.com/brewery/tours) - Brewery tour
   - [Del Popolo](http://www.delpopolosf.com/) - Wood fired pizza 
+  - [Devil's Teeth Baking Company](http://www.devilsteethbakingcompany.com/sweets-and-desserts/) - The cinnamon rolls.  Wow.
   - [Food Safari](http://www.sffoodsafari.com/index.html) - A tour of the best delis, coffee houses, bakeries and meat markets.
   - [Foreign Cinema](https://www.opentable.com/r/foreign-cinema-san-francisco) - Combining independent films with California-Mediterranean cooking
   - [La Taqueria](https://www.jamesbeard.org/blog/2017-americas-classic-la-taqueria) - Mission-style burrito 
