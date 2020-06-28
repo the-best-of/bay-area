@@ -2,14 +2,6 @@
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of the awesome-bay-area repository">
   <br>
-  <br>
-    <a href="https://cottonbureau.com/products/thug-life-bay-area" target="_blank">
-        <img width="100" src="./assets/thug-life-bay-area.png" alt="bay area: the t-shirt">
-        <br/>
-        Bay Area: the t-shirt
-    </a>
-  <br>
-  <br>
 </p>
 
 
