@@ -74,6 +74,7 @@
   - [Vaso Azzurro](https://www.vasoazzurro.com/) - Family owned italian
 - Half Moon Bay
   - [Sam's Chowder House](https://www.samschowderhouse.com/)
+  - [Dad's Luncheonette](https://www.dadsluncheonette.com/) - comfort food in a train caboose, by a Michelin star chef 
 - Pescadero
   - [Duarte's Tavern](http://www.duartestavern.com/) - world famous artichoke soup
 - San Francisco: 
