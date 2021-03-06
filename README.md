@@ -272,6 +272,8 @@
   - [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
 - San Mateo:
   - [CuriOdyssey](https://curiodyssey.org/) - Science and wildlife center for kids
+- Half Moon Bay
+  - [Fitzgerald Marine Reserve](http://www.fitzgeraldreserve.org/newffmrsite) - tide pools
 
 ### South Bay
 - Los Gatos: 
