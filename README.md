@@ -272,6 +272,8 @@
   - [Yerba Buena Gardens](https://yerbabuenagardens.com/explore-ybg/)
 - San Mateo:
   - [CuriOdyssey](https://curiodyssey.org/) - Science and wildlife center for kids
+- Half Moon Bay
+  - [Firzgerald Marine Reserve](http://www.fitzgeraldreserve.org/newffmrsite/) tidepools are one of the most beautiful and easily accessible natural wonders of the Northern California coast
 
 ### South Bay
 - Los Gatos: 
