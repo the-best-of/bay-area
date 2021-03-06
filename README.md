@@ -120,6 +120,8 @@
 ### Peninsula
 - Half Moon Bay: 
   - [The Mavericks Experience](https://www.mavericksexperience.com/) - Surf lessons
+- Pescadero
+  - [Harley Farms Goat Dairy](https://www.harleyfarms.com/) - goat cheese and baby goats
 
 
 # Hiking
