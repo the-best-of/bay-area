@@ -74,6 +74,8 @@
   - [Vaso Azzurro](https://www.vasoazzurro.com/) - Family owned italian
 - Half Moon Bay
   - [Sam's Chowder House](https://www.samschowderhouse.com/)
+- Pescadero
+  - [Duarte's Tavern](http://www.duartestavern.com/) - world famous artichoke soup
 - San Francisco: 
   - [Anchor Steam](https://www.anchorbrewing.com/brewery/tours) - Brewery tour
   - [Del Popolo](http://www.delpopolosf.com/) - Wood fired pizza 
