@@ -67,11 +67,22 @@
 
 # Food
 ### East Bay
-- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
+- Pinole
+  - [Happy Sashimi](http://www.eathappysashimi.com/)
+  - [The Red Onion](https://www.theoriginalredonion.com/)
+
+- Berkeley
+  - [Artichoke Bassile's](https://www.artichokepizza.com/location/artichoke-basille-pizza-berkeley/)
+  - [Cheeseboard Pizza](https://cheeseboardcollective.coop/)
+  - [The Butcher's Son](https://www.thebutchersveganson.com/)
+  - [Imm Thai](https://www.immthaistreetfood.com/)
+  - [Taiwan Professional Tea](https://en.tp-tea.com/menu/)
 
 ### Peninsula
 - Mountain View
   - [Vaso Azzurro](https://www.vasoazzurro.com/) - Family owned italian
+  - [Maldonado's Pizzeria](https://www.maldonadospizza.com/) - Local Pizzeria in business 
+  - [Stein's Beer Garden](https://www.steinsbeergarden.com/) - Beer Garden and pub food 
 - Half Moon Bay
   - [Sam's Chowder House](https://www.samschowderhouse.com/)
   - [Dad's Luncheonette](https://www.dadsluncheonette.com/) - comfort food in a train caboose, by a former 3 Michelin by star chef 
@@ -428,13 +439,16 @@
   - [Cal Berkeley](https://calbears.com)
 - Oakland: 
   - [Athletics](https://www.mlb.com/athletics)
-  - [Golden State Warriors](https://www.nba.com/warriors/)
 
 ### Peninsula
 - Palo Alto: 
   - [Stanford University](https://gostanford.com/)
 - San Francisco: 
   - [Giants](https://www.mlb.com/giants)
+  -[Golden State Warriors](https://www.nba.com/warriors/) - now at the Chase Center 
+- Santa Cruz 
+  - [Santa Cruz Warriors](https://santacruz.gleague.nba.com/) 
+
 
 ### South Bay
 - San Jose: 
