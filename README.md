@@ -76,8 +76,8 @@
   - [The Butcher's Son](https://www.thebutchersveganson.com/) - vegan hotspot where it's so good you can't tell the difference
   - [Cafe Platano](https://cafeplatano.com/menu.html) - took my first date here and she's still with me 6 years later
   - 
--Rodeo
-  -[Calaca Coffee](https://www.instagram.com/calacacoffee/?hl=en) - great local coffee trailer set up each Saturday + Sunday 
+- Rodeo
+  - [Calaca Coffee](https://www.instagram.com/calacacoffee/?hl=en) - great local coffee trailer set up each Saturday + Sunday 
 
 - Pinole
   - [Happy Sashimi](http://www.eathappysashimi.com/)
