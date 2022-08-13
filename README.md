@@ -25,6 +25,8 @@
   - [Livermore Valley Wine Country](https://www.lvwine.org/itinerary-planner.php)
 
 ### North Bay
+- Fort Bragg (way up north)
+  - Ride the Skunk Train and rail bikes at [The world famous Skunk Train](https://github.com/the-best-of/bay-area)
 - Guerneville: 
   - Float on the Russian River at [Johnson's Beach](https://johnsonsbeach.com/), then ice cream and pie at [Guerneville Bank Club](http://www.guernevillebankclub.com/)
 - Petaluma: 
