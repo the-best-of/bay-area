@@ -69,10 +69,27 @@
 
 # Food
 ### East Bay
-- Pinole: [Happy Sashimi](http://www.eathappysashimi.com/)
+- Berkeley
+  - [Artichoke Bassile's](https://www.artichokepizza.com/location/artichoke-basille-pizza-berkeley/) - famous for their 
+  - [Cheeseboard Pizza](https://cheeseboardcollective.coop/) - locally and employee owned co-op pizza store that 
+  - [Imm Thai](https://www.immthaistreetfood.com/) - thai food that is cheap
+  - [Seoul Hotdog](https://www.zmenu.com/seoul-hotdog-berkeley-online-menu/) - Korean cheese corndogs I love dearly 
+  - [Taiwan Professional Tea](https://en.tp-tea.com/menu/)
+  - [The Butcher's Son](https://www.thebutchersveganson.com/) - vegan hotspot where it's so good you can't tell the difference
+  - [Cafe Platano](https://cafeplatano.com/menu.html) - took my first date here and she's still with me 6 years later
+  - 
+- Rodeo
+  - [Calaca Coffee](https://www.instagram.com/calacacoffee/?hl=en) - great local coffee trailer set up each Saturday + Sunday 
+
+- Pinole
+  - [Happy Sashimi](http://www.eathappysashimi.com/)
+  - [The Red Onion](https://www.theoriginalredonion.com/) - friends + family have recommended it for years and so do I 
+
 
 ### Peninsula
 - Mountain View
+  - [Maldonado's Pizzeria](https://www.maldonadospizza.com/) - Local Pizzeria in business since I've been in high school 
+  - [Stein's Beer Garden](https://www.steinsbeergarden.com/) - Beer Garden and pub food 
   - [Vaso Azzurro](https://www.vasoazzurro.com/) - Family owned italian
 - Half Moon Bay
   - [Sam's Chowder House](https://www.samschowderhouse.com/)
@@ -95,7 +112,11 @@
   - [Tartine Bakery](https://www.tartinebakery.com/) - Try the croissants
   - [Urban Putt](https://www.sftravel.com/explore/activities/urban-putt) - Good food and indoor mini golf.
 - San Mateo: 
+  - [Izakaya Ginji](https://izakaya-ginji.square.site/) - Japanese pub styled food, definitely recommend Shochu 
   - [Nini's Coffee Shop](https://www.yelp.com/biz/ninis-coffee-shop-san-mateo) - Breakfast
+  - [Taishoken](https://www.taishokenusa.com/menu) - Great ramen! 
+  - [Wursthall](https://www.wursthall.com/) - J Kenji Alt Lopez's restaurant, great for hanging out with friends
+  
 - Woodside: 
   - [Alice's](http://www.alicesrestaurant.com/)
 
@@ -295,7 +316,9 @@
   - [Happy Hollow Park and Zoo](https://happyhollow.org/)
   - [Rotary Playgarden](http://www.rotaryplaygarden.org/)
   - [Emma Prusch Park](http://www.pruschfarmpark.org/) - A park with chickens just walking around chilling.
-
+- Mountain View
+  - [Rengstorff Park](https://www.yelp.com/biz/rengstorff-park-and-pool-mountain-view)
+  - [Eagle Park](https://www.yelp.com/biz/eagle-park-mountain-view)
 
 
 # Performing Arts
@@ -430,13 +453,16 @@
   - [Cal Berkeley](https://calbears.com)
 - Oakland: 
   - [Athletics](https://www.mlb.com/athletics)
-  - [Golden State Warriors](https://www.nba.com/warriors/)
 
 ### Peninsula
 - Palo Alto: 
   - [Stanford University](https://gostanford.com/)
 - San Francisco: 
   - [Giants](https://www.mlb.com/giants)
+  -[Golden State Warriors](https://www.nba.com/warriors/) - now at the Chase Center 
+- Santa Cruz 
+  - [Santa Cruz Warriors](https://santacruz.gleague.nba.com/) 
+
 
 ### South Bay
 - San Jose: 
